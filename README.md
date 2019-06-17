@@ -9,4 +9,4 @@ Pueden hacer lo que quieran
 
 ### GitHub
 
-Cambios realizados en gut
+Cambios realizados en git
